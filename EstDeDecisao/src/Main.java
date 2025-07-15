@@ -14,7 +14,7 @@ public class Main {
 
         if (age >= 18) {
             System.out.printf("%s, você pode dirigir, você tem  %s anos\n",name,age);
-        } else System.out.println("Você não pode dirigir");
+        } else System.out.println("Você não pode dirigir ssss");
 
 
     }
